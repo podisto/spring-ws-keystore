@@ -1,4 +1,4 @@
-package sn.sonatel.dsi.dif.springwskeystore;
+package sn.sonatel.dsi.dif.springwskeystore.config;
 
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
 import org.springframework.context.ApplicationContext;
